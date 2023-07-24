@@ -26,5 +26,5 @@
 
 
 
-![snake gif](https://github.com/samuelclementino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samuelclementino/samuelclementino/blob/output/github-contribution-grid-snake.svg)
 
