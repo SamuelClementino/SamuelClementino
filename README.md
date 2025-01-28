@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Clementino;I'm+24+years+old;I+am+from+Campina+Grande,+PB;I+study+Telemática+at+IFPB;Be+Welcome!+:%29&timestamp=1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Clementino;I'm+26+years+old;I+am+from+Campina+Grande,+PB;I+study+Telemática+at+IFPB;Be+Welcome!+:%29&timestamp=1)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width=49% height=auto% src="https://github-readme-stats-salesp07.vercel.app/api?username=samuelclementino&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&timestamp=1" alt="readme stats" />
