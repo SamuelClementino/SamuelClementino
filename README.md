@@ -2,7 +2,7 @@
 
 <div align="center">  
  <img width=49% height=auto% src="https://github-readme-stats-salesp07.vercel.app/api?username=samuelclementino&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="readme stats" />
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelClementino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelClementino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <p align="center">
